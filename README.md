@@ -19,3 +19,8 @@
 ![Git](https://img.shields.io/badge/_-Git-black?style=for-the-badge&logo=git&labelColor=F05032&logoColor=white)
 ![VS Code](https://img.shields.io/badge/_-VS_Code-black?style=for-the-badge&logo=visualstudiocode&labelColor=007ACC&logoColor=white)
 ![Terminal](https://img.shields.io/badge/_-Terminal-black?style=for-the-badge&logo=gnometerminal&labelColor=4EAA25&logoColor=white)
+
+<p align="center">
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=Ekzime&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=00FFFF&title_color=00FFFF&border_color=ffffff&border_radius=6" />
+  <img align="center" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekzime&layout=compact&bg_color=000000&text_color=ffffff&title_color=00FFFF&border_color=ffffff&border_radius=6" />
+</p>
