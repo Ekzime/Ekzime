@@ -15,7 +15,7 @@
 
 <!-- TOOLS -->
 ![MySQL](https://img.shields.io/badge/_-MySQL-black?style=for-the-badge&logo=mysql&labelColor=005C84&logoColor=white)
-![Linux](https://img.shields.io/badge/_-Linux-black?style=for-the-badge&logo=linux&labelColor=FCC624&logoColor=black)
+![Linux](https://img.shields.io/badge/_-Linux-black?style=for-the-badge&logo=linux&labelColor=ffffff&logoColor=black)
 ![Git](https://img.shields.io/badge/_-Git-black?style=for-the-badge&logo=git&labelColor=F05032&logoColor=white)
 ![VS Code](https://img.shields.io/badge/_-VS_Code-black?style=for-the-badge&logo=visualstudiocode&labelColor=007ACC&logoColor=white)
 ![Terminal](https://img.shields.io/badge/_-Terminal-black?style=for-the-badge&logo=gnometerminal&labelColor=4EAA25&logoColor=white)
