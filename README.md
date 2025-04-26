@@ -12,9 +12,11 @@
 ![Aiogram](https://img.shields.io/badge/_-Aiogram-black?style=for-the-badge&logo=telegram&labelColor=0088cc&logoColor=white)
 ![Telethon](https://img.shields.io/badge/_-Telethon-black?style=for-the-badge&logo=telegram&labelColor=2CA5E0&logoColor=white)
 ![Requests](https://img.shields.io/badge/_-Requests-black?style=for-the-badge&logo=python&labelColor=20232A&logoColor=white)
+![FastAPI](https://img.shields.io/badge/_-FastAPI-black?style=for-the-badge&logo=fastapi&labelColor=20232A&logoColor=white)
 
 <!-- TOOLS -->
 ![MySQL](https://img.shields.io/badge/_-MySQL-black?style=for-the-badge&logo=mysql&labelColor=005C84&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/_-PostgreSQL-black?style=for-the-badge&logo=postgresql&labelColor=20232A&logoColor=white)
 ![Linux](https://img.shields.io/badge/_-Linux-black?style=for-the-badge&logo=linux&labelColor=ffffff&logoColor=black)
 ![Git](https://img.shields.io/badge/_-Git-black?style=for-the-badge&logo=git&labelColor=F05032&logoColor=white)
 ![VS Code](https://img.shields.io/badge/_-VS_Code-black?style=for-the-badge&logo=visualstudiocode&labelColor=007ACC&logoColor=white)
