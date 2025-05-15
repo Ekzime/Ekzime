@@ -3,7 +3,6 @@
 ## 
 <!-- LANGUAGES -->
 ![Python](https://img.shields.io/badge/_-Python-black?style=for-the-badge&logo=python&labelColor=3776AB&logoColor=white)
-![C++](https://img.shields.io/badge/_-C++-black?style=for-the-badge&logo=c%2B%2B&labelColor=00599C&logoColor=white)
 ![SQL](https://img.shields.io/badge/_-SQL-black?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=white)
 
 <!-- FRAMEWORKS -->
