@@ -23,3 +23,6 @@
 ![Terminal](https://img.shields.io/badge/_-Terminal-black?style=for-the-badge&logo=gnometerminal&labelColor=4EAA25&logoColor=white)
 
 
+<p align="center">
+  <img align="center" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekzime&layout=compact&bg_color=000000&text_color=ffffff&title_color=00FFFF&border_color=ffffff&border_radius=6" />
+</p>
