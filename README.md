@@ -22,4 +22,3 @@
 ![VS Code](https://img.shields.io/badge/_-VS_Code-black?style=for-the-badge&logo=visualstudiocode&labelColor=007ACC&logoColor=white)
 ![Terminal](https://img.shields.io/badge/_-Terminal-black?style=for-the-badge&logo=gnometerminal&labelColor=4EAA25&logoColor=white)
 ![Web3](https://img.shields.io/badge/_-Web3-black?style=for-the-badge&logo=ethereum&labelColor=627EEA&logoColor=white)
-![Web3](https://img.shields.io/badge/_-Web3-black?style=for-the-badge&logo=web3.js&labelColor=F16822&logoColor=white)
