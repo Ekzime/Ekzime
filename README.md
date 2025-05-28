@@ -4,6 +4,7 @@
 <!-- LANGUAGES -->
 ![Python](https://img.shields.io/badge/_-Python-black?style=for-the-badge&logo=python&labelColor=3776AB&logoColor=white)
 ![SQL](https://img.shields.io/badge/_-SQL-black?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=white)
+![JavaScript](https://img.shields.io/badge/_-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=F7DF1E&logoColor=black)
 
 <!-- FRAMEWORKS -->
 ![Django](https://img.shields.io/badge/_-Django-black?style=for-the-badge&logo=django&labelColor=092E20&logoColor=white)
