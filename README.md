@@ -4,7 +4,6 @@
 <!-- LANGUAGES -->
 ![Python](https://img.shields.io/badge/_-Python-black?style=for-the-badge&logo=python&labelColor=3776AB&logoColor=white)
 ![SQL](https://img.shields.io/badge/_-SQL-black?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=white)
-![JavaScript](https://img.shields.io/badge/_-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=F7DF1E&logoColor=black)
 
 <!-- FRAMEWORKS -->
 ![Django](https://img.shields.io/badge/_-Django-black?style=for-the-badge&logo=django&labelColor=092E20&logoColor=white)
@@ -13,6 +12,8 @@
 ![Telethon](https://img.shields.io/badge/_-Telethon-black?style=for-the-badge&logo=telegram&labelColor=2CA5E0&logoColor=white)
 ![Requests](https://img.shields.io/badge/_-Requests-black?style=for-the-badge&logo=python&labelColor=20232A&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/_-FastAPI-black?style=for-the-badge&logo=fastapi&labelColor=20232A&logoColor=white)
+![Keras](https://img.shields.io/badge/_-Keras-black?style=for-the-badge&logo=keras&labelColor=D00000&logoColor=white)
+![PyTorch](https://img.shields.io/badge/_-PyTorch-black?style=for-the-badge&logo=pytorch&labelColor=EE4C2C&logoColor=white)
 
 <!-- TOOLS -->
 ![MySQL](https://img.shields.io/badge/_-MySQL-black?style=for-the-badge&logo=mysql&labelColor=005C84&logoColor=white)
