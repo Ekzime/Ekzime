@@ -3,6 +3,8 @@
 ## 
 <!-- LANGUAGES -->
 ![Python](https://img.shields.io/badge/_-Python-black?style=for-the-badge&logo=python&labelColor=3776AB&logoColor=white)
+![JavaScript](https://img.shields.io/badge/_-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=F7DF1E&logoColor=black)
+![TypeScript](https://img.shields.io/badge/_-TypeScript-black?style=for-the-badge&logo=typescript&labelColor=3178C6&logoColor=white)
 ![SQL](https://img.shields.io/badge/_-SQL-black?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=white)
 
 <!-- FRAMEWORKS -->
@@ -14,6 +16,8 @@
 ![FastAPI](https://img.shields.io/badge/_-FastAPI-black?style=for-the-badge&logo=fastapi&labelColor=20232A&logoColor=white)
 ![Keras](https://img.shields.io/badge/_-Keras-black?style=for-the-badge&logo=keras&labelColor=D00000&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/_-PyTorch-black?style=for-the-badge&logo=pytorch&labelColor=EE4C2C&logoColor=white)
+![React](https://img.shields.io/badge/_-React-black?style=for-the-badge&logo=react&labelColor=61DAFB&logoColor=black)
+![Vite](https://img.shields.io/badge/_-Vite-black?style=for-the-badge&logo=vite&labelColor=646CFF&logoColor=white)
 
 <!-- TOOLS -->
 ![MySQL](https://img.shields.io/badge/_-MySQL-black?style=for-the-badge&logo=mysql&labelColor=005C84&logoColor=white)
