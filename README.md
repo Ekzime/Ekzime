@@ -4,9 +4,9 @@
 <!-- LANGUAGES -->
 ![Python](https://img.shields.io/badge/_-Python-black?style=for-the-badge&logo=python&labelColor=3776AB&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=F7DF1E&logoColor=black)
-![TypeScript](https://img.shields.io/badge/_-TypeScript-black?style=for-the-badge&logo=typescript&labelColor=3178C6&logoColor=white)
 ![SQL](https://img.shields.io/badge/_-SQL-black?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=white)
 ![Web3](https://img.shields.io/badge/_-Web3-black?style=for-the-badge&logo=ethereum&labelColor=627EEA&logoColor=white)
+![Assembly](https://img.shields.io/badge/_-Assembly-black?style=for-the-badge&logo=assemblyscript&labelColor=007AAC&logoColor=white)
 
 <!-- FRAMEWORKS -->
 ![Django](https://img.shields.io/badge/_-Django-black?style=for-the-badge&logo=django&labelColor=092E20&logoColor=white)
