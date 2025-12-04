@@ -11,5 +11,4 @@
 ![SQLAlchemy](https://img.shields.io/badge/_-SQLAlchemy-black?style=for-the-badge&logo=sqlalchemy&labelColor=CA4245&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/_-Aiogram-black?style=for-the-badge&logo=telegram&labelColor=0088cc&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/_-FastAPI-black?style=for-the-badge&logo=fastapi&labelColor=20232A&logoColor=white)
-
-
+![Redis](https://img.shields.io/badge/_-Redis-black?style=for-the-badge&logo=redis&labelColor=DC382D&logoColor=white)
